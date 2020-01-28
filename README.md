@@ -5,7 +5,7 @@ According to the book, the Ringworld's radius is pretty close to the radius of E
 
 The star rendered in these images has the same diameter as our Sun, which is close to the star described in the book.
 
-The [ringworld.pov](/ringworld.pov) file shows the Ringworld seen from the orbit of Mars, just a little higher than the ecliptic plane.
+The [ringworld.pov](/ringworld.pov) file shows the Ringworld seen from the orbit of Mars, just a little higher than the ecliptic plane. Open the image in a new tab to see it in full resolution.
 
 ![Ringworld](/ringworld.png)
 
