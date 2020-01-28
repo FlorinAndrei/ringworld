@@ -13,4 +13,6 @@ The [floating.pov](/floating.pov) file shows a view from the Ringworld, while fl
 
 ![floating](/floating.png)
 
+I am not simulating (yet) the shadow squares.
+
 Hopefully I'll add more views later.
