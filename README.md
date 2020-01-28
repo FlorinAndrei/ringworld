@@ -1,9 +1,9 @@
 # ringworld
 This is [Larry Niven's Ringworld](https://en.wikipedia.org/wiki/Ringworld), simulated in 3D, rendered to scale. The ray tracer used for this project is [POV-Ray](http://www.povray.org/).
 
-According to the book, the Ringworld's radius is pretty close to the radius of Earth's orbit. The width of the ring is 1.6 million kilometers (a little wider than the diameter of the Sun).
+According to the book, the Ringworld's radius is pretty close to the radius of Earth's orbit. The width of the ring band is 1.6 million kilometers (a little wider than the diameter of the Sun).
 
-The star rendered in these images has the same diameter as our Sun, which is close to the star described in the book.
+The star rendered in these images has the same diameter as our Sun, which is similar to the star described in the book.
 
 The [ringworld.pov](/ringworld.pov) file shows the Ringworld seen from the orbit of Mars, just a little higher than the ecliptic plane. Open the image in a new tab to see it in full resolution.
 
