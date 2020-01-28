@@ -1,5 +1,5 @@
 # ringworld
-This is [Larry Niven's Ringworld](https://en.wikipedia.org/wiki/Ringworld), simulated in 3D, rendered to scale. The ray tracer used for this project is [POV-Ray](http://www.povray.org/).
+This is [Larry Niven's Ringworld](https://en.wikipedia.org/wiki/Ringworld), rendered to scale in 3D. The ray tracer used for this project is [POV-Ray](http://www.povray.org/).
 
 According to the book, the Ringworld's radius is pretty close to the radius of Earth's orbit. The width of the ring band is 1.6 million kilometers (a little wider than the diameter of the Sun).
 
